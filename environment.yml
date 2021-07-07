@@ -8,5 +8,5 @@ dependencies:
   - fastqc
   - multiqc
   - pip:
-    - jupyterlab==3.1.0a10
+    - jupyterlab==3.1.0b0
     - jupyterlab-link-share
